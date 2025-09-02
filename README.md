@@ -1,5 +1,5 @@
 # DistribuidoraDespachoJava
-Repositorio con proyecto Java de cálculo de despacho a domicilio, incluyendo documentación completa, intrucciones de Compilación y Ejecución, requerimientos e historias de usuario.
+Repositorio con proyecto Java de cálculo de despacho a domicilio, incluyendo documentación completa, instrucciones de Compilación y Ejecución, requerimientos e historias de usuario.
 
 ---
 # 🚚 Distribuidora de Alimentos - Cálculo de Despacho
